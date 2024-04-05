@@ -2,16 +2,21 @@
     {
         "user_id": "3",
         "post_id": "3",
-        "content": "I'm in!"
+        "content": "I'm in!",
+        "date_created": "04/02/2024"
+        
+        
     },
     {
         "user_id": "2",
         "post_id": "2",
-        "content": "Are handlebars even used much? "
+        "content": "Are handlebars even used much? ",
+        "date_created": "02/12/2024"
     },
     {
         "user_id": "1",
         "post_id": "1",
-        "content": "I could use a friend"
+        "content": "I could use a friend",
+        "date_created": "8/16/2023"
     }
 ]

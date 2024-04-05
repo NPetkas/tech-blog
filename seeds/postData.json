@@ -3,18 +3,18 @@
         "name": "MVC for dummies",
         "content": "The release of 'MVC for Dummies' now on paperback. Great for kids! ",
         "date_created": "04/02/2024",
-        "user_id": "2"
+        "user_id": "3"
     },
     {
         "name": "Why Handlebars?",
         "content": "Explore more handlebars in detail and WHY you should understand it",
         "date_created": "02/12/2024",
-        "user_id": "1"
+        "user_id": "2"
     },
     {
         "name": "Npm is your friend",
         "content": "Let's become best friends with NPM. Learn why this tool is so useful",
         "date_created": "8/16/2023",
-        "user_id": "3"
+        "user_id": "1"
     }
 ]

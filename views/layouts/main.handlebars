@@ -12,7 +12,7 @@
         <header class="display-flex justify-space-between align-center p-2">
                     <h1>The Tech Blog!</h1>
             <nav>
-                <!-- render login or logout links -->
+                <!-- renders login or logout -->
                 {{#if logged_in}}
                 <a href="/">Home</a> |
                 <a href="/dashboard">Dashboard</a> |
@@ -23,10 +23,6 @@
                 {{/if}}
             </nav>
         </header>
-
-        <div class="title align-center p-2">
-        {{!-- <h1>The Tech Blog!</h1> --}}
-        </div>
 
         <main class="container container-fluid mt-5">
             <!-- Render sub layout -->

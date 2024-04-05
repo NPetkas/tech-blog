@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": "3",
+        "post_id": "3",
+        "content": "I'm in"
+    },
+    {
+        "user_id": "2",
+        "post_id": "2",
+        "content": "Are handlebars even used much? "
+    },
+    {
+        "user_id": "1",
+        "post_id": "1",
+        "content": "I could use a friend"
+    }
+]
